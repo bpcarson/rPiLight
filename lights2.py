@@ -1,8 +1,8 @@
 from Adafruit_IO import MQTTClient
 from gpiozero import LEDBoard
 import time 
-ADAFRUIT_IO_USERNAME = "bcarson"
-ADAFRUIT_IO_KEY = "6068e9b7a6854ae7bf14bc58196bd691"
+ADAFRUIT_IO_USERNAME = "user"
+ADAFRUIT_IO_KEY = "key"
 global red, blue, leds
 
 # add GPIO pinouts to
